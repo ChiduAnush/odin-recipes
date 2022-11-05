@@ -13,10 +13,17 @@ h1{
     font-size: 70px;
     font-family: fantasy;
     text-align: center;
+    font-weight:bold;
 }
 
 ul{
     text-align: center;
     color: rgb(65, 65, 63);
     backdrop-filter: sepia(100%);
+}
+
+a{
+    color: black;
+    text-decoration: wavy;
+    font-size: 20px;
 }
